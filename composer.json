@@ -28,7 +28,7 @@
       "homepage": "https://github.com/weiwei2012holy"
     }
   ],
-  "name": "tmtbe/swooledistributed",
+  "name": "weiwei2012holy/swooledistributed",
   "type": "library",
   "keywords": ["server", "swoole", "distributed"],
   "description": "In order to develop the api server",
