@@ -16,7 +16,7 @@ class SDJsonFormatter extends JsonFormatter
     /**
      * {@inheritdoc}
      */
-    public function format(array $record)
+    public function format(array $record) :string
     {
         $context = $record['context'];
         $RunStack = $context['RunStack']??[];
